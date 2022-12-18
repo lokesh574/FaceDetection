@@ -1,3 +1,2 @@
-# FaceDetection
-Face detection using Opencv
+# Face detection using Opencv.
 It will detect face from WebCam
