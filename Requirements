@@ -1,2 +1,4 @@
 numpy==1.15.4
+# Check 'https://numpy.org/install' to install numpy
 opencv-python==3.4.3.18
+# check this website ' https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-windows/ ' to install opencv
